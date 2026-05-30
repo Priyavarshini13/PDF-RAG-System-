@@ -1,0 +1,5 @@
+PDF_Retrieval_Pipeline/venv/
+PDF_Retrieval_Pipeline/vectorstore/
+__pycache__/
+*.pyc
+.env
